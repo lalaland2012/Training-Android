@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DepartmentActivity</string>
+    <string name="department_title">Department Title</string>
+    <string name="london_uk">London UK</string>
+    <string name="mar_28_30">Mar 28 - 30</string>
+    <string name="_2_guests">2 guests</string>
+    <string name="filter">Filter</string>
+</resources>
